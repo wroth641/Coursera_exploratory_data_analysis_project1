@@ -67,7 +67,7 @@ When you are finished with the assignment, push your git repository to GitHub so
 4. Ask yourself if a plot might answer a question for the person who created it.
 5. Remember that not everyone has the same statistical background and knowledge.
 
-DON'T:
+# DON'T:
 1. Deduct just because you disagree with someone's statistical methods.
 2. Deduct just because you disagree with someone's plotting methods.
 3. Deduct based on aesthetics.
